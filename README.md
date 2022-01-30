@@ -11,10 +11,8 @@
 <h3>🛠 Tools:</h3>  
 - &nbsp; Python || Pandas && Matplotlib && Seaborn && Keras && Tensorflow </br>
 - &nbsp; HTML | CSS | JavaScript </br>
-- &nbsp; MySQL |SQLite </br>
+- &nbsp; MySQL | Oracle </br>
 - &nbsp; Git </br>
 
 
 <br/>
-
-<h3> 🤝🏻 Connect with Me </h3>
