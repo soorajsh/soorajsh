@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hey there! I'm Suraj Sharma || a Data Enthusiast. 👋</h2>
 
-<!--
-**soorajsh/soorajsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
+- 🤔 &nbsp; Exploring Machine Learning, Deep learning and Data Science.
+- 🎓 &nbsp; Pursuing my undergraduate program: B.E. IT.
+- 💼 &nbsp; Open to work and collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🛠 Tools:</h3>
+
+- 💻 &nbsp; Python SQL  
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🛢 &nbsp; MySQL |SQLite
+- 🔧 &nbsp; Git 
+
+
+<br/>
+
+<h3> 🤝🏻 Connect with Me </h3>
