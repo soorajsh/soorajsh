@@ -9,7 +9,7 @@
 
 
 <h3>🛠 Tools:</h3>  
-- &nbsp; Python || Pandas && Matplotlib && Seaborn && Keras && Tensorflow </br>
+- &nbsp; Python || Pandas && Matplotlib && Seaborn && Scikit-learn && Keras && Tensorflow </br>
 - &nbsp; HTML | CSS | JavaScript </br>
 - &nbsp; MySQL | Oracle </br>
 - &nbsp; Git </br>
