@@ -1,18 +1,18 @@
 <h2> Hey there! I'm Suraj Sharma || a Data Enthusiast. 👋</h2>
-<h2> A Data Analyst who likes to roam around with Machine Learning and Deep Learning Algorithms. </h2>
+<h4> A Data Analyst who likes to roam around with Machine Learning and Deep Learning Algorithms. </h4>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🤔 &nbsp; Exploring Machine Learning, Deep learning and Data Science.
-- 🎓 &nbsp; Pursuing my undergraduate program: B.E. IT.
-- 💼 &nbsp; Open to work and collaborate.
+- 🤔 &nbsp; Exploring Machine Learning, Deep learning and Data Science. </br>
+- 🎓 &nbsp; Pursuing my undergraduate degree: B.E. IT. </br>
+- 💼 &nbsp; Open to work and collaborate. </br>
 
 
 <h3>🛠 Tools:</h3>  
-- &nbsp; Python || Pandas && Matplotlib && Seaborn && Keras && Tensorflow 
-- &nbsp; HTML | CSS | JavaScript 
-- &nbsp; MySQL |SQLite
-- &nbsp; Git 
+- &nbsp; Python || Pandas && Matplotlib && Seaborn && Keras && Tensorflow </br>
+- &nbsp; HTML | CSS | JavaScript </br>
+- &nbsp; MySQL |SQLite </br>
+- &nbsp; Git </br>
 
 
 <br/>
