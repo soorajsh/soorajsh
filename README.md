@@ -3,13 +3,14 @@
 
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🤔 &nbsp; Exploring Machine Learning, Deep learning and Data Science. </br>
-- 🎓 &nbsp; Pursuing my undergraduate degree: B.E. IT. </br>
+- 🤔 &nbsp; Exploring the Data World !!! </br>
+- 🎓 &nbsp; B.E. Information Technology. </br>
 - 💼 &nbsp; Open to work and collaborate. </br>
 
 
-<h3>🛠 Tools:</h3>  
-- &nbsp; Python || Pandas && Matplotlib && Seaborn && Scikit-learn && Keras && Tensorflow </br>
+<h3>🛠 Tools:</h3> 
+- &nbsp; R & SAS & Python </br>
+- &nbsp; Data Analysis || Data Science </br>
 - &nbsp; HTML | CSS | JavaScript </br>
 - &nbsp; MySQL | Oracle </br>
 - &nbsp; Git </br>
