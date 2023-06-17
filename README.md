@@ -9,7 +9,7 @@
 
 
 <h3>🛠 Tools:</h3> 
-- &nbsp; R & SAS & Python </br>
+- &nbsp; R & SAS & Python & SQL </br>
 - &nbsp; Data Analysis || Data Science </br>
 - &nbsp; HTML | CSS | JavaScript </br>
 - &nbsp; MySQL | Oracle </br>
