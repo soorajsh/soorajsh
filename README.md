@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Suraj Sharma || a Data Enthusiast. 👋</h2>
-<h4> A Data Analyst who likes to roam around with Machine Learning and Deep Learning Algorithms. </h4>
+<h4> A Data Analyst who beleives in Data-driven Decision making. </h4>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
